@@ -1,0 +1,6 @@
+tau: 0.1
+beta: 0.
+divergence: 1e-6
+rewire_first: True
+cycle: 4
+coeff: 1.
